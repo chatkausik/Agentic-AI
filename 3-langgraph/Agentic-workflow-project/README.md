@@ -6,7 +6,7 @@ A sophisticated AI workflow system that intelligently routes queries between RAG
 
 Check out this demo recording to see the application in action:
 
-📹 **[Application Demo](../../Screen%20Recording%202025-06-10%20at%205.26.01%20PM.mov)**
+📹 **[Application Demo](data2/Screen%20Recording%202025-06-10%20at%205.26.01%20PM.mov)**
 
 *This recording demonstrates the key features and workflow of the Agentic AI system.*
 
