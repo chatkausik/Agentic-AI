@@ -1,22 +1,45 @@
-streamlit
-pandas
-openpyxl
-sqlalchemy
-matplotlib
-plotly
-openai
-wikipedia 
-youtube_search
-langchain-community
-faiss-cpu
-langchain_google_genai
-pypdf
-langchain 
-langchain-pinecone
-weaviate-client
-langchain_weaviate
-wikipedia
-youtube_search
-langgraph
-langchain_huggingface
-chromadb
+# Core RAG Pipeline Requirements
+# Install with: pip install -r requirements.txt
+
+# PDF Processing
+PyPDF2==3.0.1
+PyMuPDF==1.23.0
+pytesseract==0.3.10
+camelot-py[cv]==0.10.1
+
+# Text Processing and NLP
+nltk==3.8.1
+transformers==4.35.0
+sentence-transformers==2.2.2
+scikit-learn==1.3.0
+spacy==3.7.2
+
+# Vector Databases
+pymongo==4.6.0
+cassandra-driver==3.28.0
+opensearch-py==2.4.0
+pymilvus==2.3.4
+
+# Retrieval and Reranking
+rank-bm25==0.2.2
+faiss-cpu==1.7.4
+
+# LLM Integration
+langchain==0.0.350
+openai==1.3.0
+
+# Document Generation
+python-docx==0.8.11
+
+# Core Dependencies
+torch==2.1.0
+torchvision==0.16.0
+Pillow==10.1.0
+pandas==2.1.3
+numpy==1.24.3
+
+# Environment Management
+python-dotenv==1.0.0
+duckduckgo-search
+yfinance
+langchain_experimental
