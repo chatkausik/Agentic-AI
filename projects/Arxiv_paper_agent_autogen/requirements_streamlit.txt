@@ -1,0 +1,7 @@
+streamlit
+autogen-agentchat
+autogen-ext[openai]
+arxiv
+pandas
+asyncio
+python-dotenv

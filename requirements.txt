@@ -43,3 +43,7 @@ python-dotenv==1.0.0
 duckduckgo-search
 yfinance
 langchain_experimental
+autogen-agentchat
+autogen-ext
+autogen-core
+arxiv
